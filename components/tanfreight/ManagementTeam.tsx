@@ -217,70 +217,6 @@ const ManagementTeam = () => {
           <div className="rounded-md bg-purple-2 text-gray-200">
             <Link href="">
               <Image
-                src="/freight/managements/IS-2.jpg"
-                width={400}
-                height={400}
-                alt="tan stuff"
-              />
-            </Link>
-            <div className="flex items-start justify-between p-3">
-              <div>
-                <h3 className="text-xl font-semibold">Isaac Obiri Sakyiamah</h3>
-                <p>Chief Finance Officer</p>
-              </div>
-              <div className="flex items-center justify-center gap-3 align-baseline">
-                {/* <Link href="mailto:isaac.sakyiamah@tanfreight.com">
-                  <span className="text-4xl">&#9993;</span>
-                </Link> */}
-                <Link href="https://www.linkedin.com/in/isaac-networks-2a5a9a183?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACtoxh0Bit5tAkmnrUQfyXbFBWpyd5snEMY&lipi=urn%3Ali%3Apage%3Ad_flagship3_company%3BZsrooM54R%2B2Jc6bejOV0Mw%3D%3D">
-                  <Image
-                    src="/freight/managements/linkedin.png"
-                    alt=""
-                    width={40}
-                    height={40}
-                  />
-                </Link>
-              </div>
-            </div>
-          </div>
-          <div className="rounded-md bg-purple-2 text-gray-200">
-            <Link href="">
-              <Image
-                src="/freight/managements/HR-2.jpg"
-                width={400}
-                height={400}
-                alt="tan stuff"
-              />
-            </Link>
-            <div className="flex items-start justify-between p-3">
-              <div>
-                <h3 className="text-xl font-semibold">Juliana Opoku Mensah</h3>
-                <p>Director of Human Resources</p>
-              </div>
-              <div className="flex items-center justify-center gap-3 align-baseline">
-                {/* <Link
-                  href="mailto:julienne.opokumensah@tanfreight.com"
-                  className="email"
-                >
-                  <span className="text-4xl">&#9993;</span>
-                </Link> */}
-                <Link href="" className="email">
-                  <Image
-                    src="/freight/managements/linkedin.png"
-                    alt=""
-                    width={40}
-                    height={40}
-                  />
-                </Link>
-                {/* <Link href="" className="email">
-                  <Image src="/ig.png" alt="" width={24} height={24} />
-                </Link> */}
-              </div>
-            </div>
-          </div>
-          <div className="rounded-md bg-purple-2 text-gray-200">
-            <Link href="">
-              <Image
                 src="/freight/managements/EB-2.JPG"
                 width={400}
                 height={400}
@@ -290,7 +226,7 @@ const ManagementTeam = () => {
             <div className="flex items-start justify-between p-3">
               <div>
                 <h3 className="text-xl font-semibold">Esther Ajaaka Bampoh</h3>
-                <p>Director of Marketing & Bus. Development</p>
+                <p>Chief Growth Officer</p>
               </div>
               <div className="flex items-center justify-center gap-3 align-baseline">
                 {/* <Link

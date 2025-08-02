@@ -48,16 +48,6 @@ const GroupList = () => {
           />
           {/* <h3 className="mt-2 text-lg font-semibold">Ecofarms Africa</h3> */}
         </Link>
-        <Link href="#" className="flex flex-col items-center justify-center">
-          <Image
-            src="/life/Tsciences.jpg"
-            className="rounded-md bg-gray-100 p-3"
-            width={180}
-            height={180}
-            alt="TAN Group of company TAN freight and Logistics"
-          />
-          {/* <h3 className="mt-2 text-lg font-semibold">TAN Life Sciences</h3> */}
-        </Link>
       </div>
     </div>
   );
