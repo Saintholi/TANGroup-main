@@ -36,7 +36,7 @@ const Procure = () => {
         <div className="flex gap-10">
           <Link
             className="rounded-md bg-slate-100 p-2"
-            href="mailto:valkemengineering@gmail.com"
+            href="mailto:info@valkemets.com"
           >
             Get Started
           </Link>
