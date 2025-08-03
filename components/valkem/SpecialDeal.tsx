@@ -15,7 +15,7 @@ const SpecialDeal = () => {
             discount won't last forever!
           </p>
           <Link
-            href="mailto:valkemengineering@gmail.com"
+            href="mailto:info@valkemets.com"
             className="rounded-md bg-gray-700 px-4 py-2 text-gray-200"
           >
             Contact us Now
