@@ -220,10 +220,10 @@ export const valkemfooterLinks = [
     title: 'Get in touch',
     links: [
       {
-        name: 'valkemengineering@gmail.com',
-        link: 'mailto:valkemengineering@gmail.com',
+        name: 'info@valkemets.com',
+        link: 'mailto:info@valkemets.com',
       },
-      { name: '+233 204 261 569', link: 'tel:+233204261569' },
+      { name: '+233 203 333 906', link: 'tel:+233203333906' },
     ],
   },
 ];
