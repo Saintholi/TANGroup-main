@@ -56,7 +56,7 @@ const Offer = () => {
         <Link
           className="rounded-lg bg-gray-600 p-3 uppercase text-gray-100
            transition-all hover:bg-gray-700"
-          href="mailto:valkemengineering@gmail.com"
+          href="mailto:info@valkemets.com"
         >
           Contact us now
         </Link>
